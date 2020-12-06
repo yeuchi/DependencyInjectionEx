@@ -16,16 +16,16 @@ Koin is alternative to Dagger that is easier to use.
 
 # References 
 
-0. RunYasso800 -- Dagger example by Chi Yeung
+0. RunYasso800 -- Dagger example by Chi Yeung \
 https://github.com/yeuchi/RunYasso800
 
-1. "Using Hilt in your Android app" CodeLab by Manuel Vivo, October 29, 2020
+1. "Using Hilt in your Android app" CodeLab by Manuel Vivo, October 29, 2020 \
 https://codelabs.developers.google.com/codelabs/android-hilt#0
 
-2. "Finally, a loveable dependency inject for Android: Hilt & Koin" by Genc Tasbasi, August 19 2020
+2. "Finally, a loveable dependency inject for Android: Hilt & Koin" by Genc Tasbasi, August 19 2020 \
 https://medium.com/@genc.tasbasi/finally-a-loveable-dependency-injection-for-android-hilt-koin-6cdfc08a6401
 
-3. "Kotlin Koin - Android Tutorial for Beginners - Step by Step guide" by Himanshu Singh, June 22, 2020
+3. "Kotlin Koin - Android Tutorial for Beginners - Step by Step guide" by Himanshu Singh, June 22, 2020 \
 https://blog.mindorks.com/kotlin-koin-tutorial
 
 
