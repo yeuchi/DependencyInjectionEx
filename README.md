@@ -16,7 +16,7 @@ Koin is alternative to Dagger that is easier to use.
 
 # References 
 
-0. RunYasso800 -- Dagger example by Chi Yeung \
+0. RunYasso800 by Chi Yeung \
 https://github.com/yeuchi/RunYasso800
 
 1. "Using Hilt in your Android app" CodeLab by Manuel Vivo, October 29, 2020 \
