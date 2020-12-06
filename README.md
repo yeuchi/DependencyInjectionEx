@@ -1,15 +1,15 @@
 # DependencyInjectionEx
 
-This is a collection of exercises found on the web. \
+This is a collection of exercises found on the web.\
 Nothing original, just my personal learning of those tutorials with 'minor' changes.
 
-Definition: In the simplest term, dependency injection is passing an object into a class object. \ 
+Definition: In the simplest term, dependency injection is passing an object into a class object.\ 
 This allows dependency inversion and is achieved by creating a singleton that manages the life time of the injecting object(s).
 
-Dagger2 is the framework I learned to use. \ 
+Dagger2 is the framework I learned to use.\ 
 It is demonstrated in RunYasso800 project <sup>[1]</sup>.
 
-Hilt is the new Google recommended framework base on Dagger 2. \
+Hilt is the new Google recommended framework base on Dagger 2.\
 Included project is most basic implementation.
 
 Koin is alternative to Dagger that is easier to use.
