@@ -25,5 +25,7 @@ https://codelabs.developers.google.com/codelabs/android-hilt#0
 2. "Finally, a loveable dependency inject for Android: Hilt & Koin" by Genc Tasbasi, August 19 2020
 https://medium.com/@genc.tasbasi/finally-a-loveable-dependency-injection-for-android-hilt-koin-6cdfc08a6401
 
+3. "Kotlin Koin - Android Tutorial for Beginners - Step by Step guide" by Himanshu Singh, June 22, 2020
+https://blog.mindorks.com/kotlin-koin-tutorial
 
 
