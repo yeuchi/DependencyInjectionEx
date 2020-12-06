@@ -16,7 +16,7 @@ Koin is alternative to Dagger that is easier to use.
 1. "Using Hilt in your Android app" CodeLab by Manuel Vivo, October 29, 2020
 https://codelabs.developers.google.com/codelabs/android-hilt#0
 
-2 "Finally, a loveable dependency inject for Android: Hilt & Koin" by Genc Tasbasi, August 19 2020
+2. "Finally, a loveable dependency inject for Android: Hilt & Koin" by Genc Tasbasi, August 19 2020
 https://medium.com/@genc.tasbasi/finally-a-loveable-dependency-injection-for-android-hilt-koin-6cdfc08a6401
 
 
